@@ -68,3 +68,7 @@ body {
 
 ul.dot li{color: red;}
 ol.num li{list-style: decimal; margin-left: 20px;}
+h2{
+	font-size: 30px;
+	padding: 50px;
+}
